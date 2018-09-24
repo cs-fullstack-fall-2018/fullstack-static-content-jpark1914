@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('mern-static-content:server');
+var debug = require('debug')('fullstack-static-content-jpark1914:server');
 var http = require('http');
 
 /**
